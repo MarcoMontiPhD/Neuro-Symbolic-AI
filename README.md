@@ -16,7 +16,7 @@ A central hub for cutting-edge **Neuro-Symbolic AI** projects—integrating neur
 5. [watsonx-NeuroSymbolic-Decision](#watsonx-neurosymbolic-decision)
 6. [Neuro-Symbolic Fine-Tuning with Ontology-Guided GRPO](#neuro-symbolic-fine-tuning-with-ontology-guided-grpo)
 7. [How to Validate NLP Answers Using Python and Ontologies](#how-to-validate-nlp-answers-using-python-and-ontologies)
-
+8. [Agent-driven Ontology Repair and Evolution (ADORE)](#agent-driven-ontology-repair-and-evolution)
 ---
 
 ## Neuro-Symbolic Interaction
@@ -72,6 +72,14 @@ This project presents an advanced, end-to-end implementation of fine-tuning a Ll
 **Repository:** [ruslanmv/How-to-Validate-NLP-Answers-Using-Python-and-Ontologies](https://github.com/ruslanmv/How-to-Validate-NLP-Answers-Using-Python-and-Ontologies)
 
 This repository provides a foundational, hands-on tutorial for validating answers from NLP models against a formal knowledge base. Using the Human Phenotype Ontology (HPO) as an example, it walks through a multi-pass validation pipeline with Python. It covers techniques ranging from simple exact and fuzzy string matching to more advanced semantic similarity with embeddings and logical verification using an OWL reasoner. This project is the perfect starting point as it explains the core validation techniques that are essential building blocks for more complex neuro-symbolic systems.
+
+
+
+### Agent-driven Ontology Repair and Evolution
+
+**Repository** [https://github.com/ruslanmv/Agent-driven-Ontology-Repair-and-Evolution](https://github.com/ruslanmv/Agent-driven-Ontology-Repair-and-Evolution)
+
+This repository demonstrates **ADORE (Agent-driven Ontology Repair and Evolution)**, a highly advanced conceptual framework for managing how ontologies evolve with input from LLMs. It proposes a multi-agent system where specialized AI agents collaborate to propose, validate, and repair knowledge. When an LLM suggests a new fact that causes a logical inconsistency, the framework treats it as a trigger for a repair cycle, using formal axiom weakening and human-in-the-loop oversight to resolve the conflict. This project represents the cutting edge of research into creating autonomous, reflective, and trustworthy knowledge systems.
 
 ---
 
