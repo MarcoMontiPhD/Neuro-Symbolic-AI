@@ -77,7 +77,7 @@ This repository provides a foundational, hands-on tutorial for validating answer
 
 ### Agent-driven Ontology Repair and Evolution
 
-**Repository** [https://github.com/ruslanmv/Agent-driven-Ontology-Repair-and-Evolution](https://github.com/ruslanmv/Agent-driven-Ontology-Repair-and-Evolution)
+**Repository** [ruslanmv/Agent-driven-Ontology-Repair-and-Evolution](https://github.com/ruslanmv/Agent-driven-Ontology-Repair-and-Evolution)
 
 This repository demonstrates **ADORE (Agent-driven Ontology Repair and Evolution)**, a highly advanced conceptual framework for managing how ontologies evolve with input from LLMs. It proposes a multi-agent system where specialized AI agents collaborate to propose, validate, and repair knowledge. When an LLM suggests a new fact that causes a logical inconsistency, the framework treats it as a trigger for a repair cycle, using formal axiom weakening and human-in-the-loop oversight to resolve the conflict. This project represents the cutting edge of research into creating autonomous, reflective, and trustworthy knowledge systems.
 
