@@ -25,6 +25,8 @@ A central hub for cutting-edge **Neuro-Symbolic AI** projects—integrating neur
 
 This repository showcases a focused model designed to enhance the accuracy of Large Language Models (LLMs) by integrating knowledge from an OWL ontology. It provides a practical, single-purpose example of how combining neural and symbolic AI can correct biases and factual errors in LLM outputs. The system not only improves accuracy but also offers logical explanations for its corrections based on the ontology. It features a Gradio-based interface to clearly demonstrate this core neuro-symbolic capability, making it an excellent starting point for understanding the concept.
 
+For a comprehensive description of the methodology and evaluation, please refer to the accompanying paper: [https://arxiv.org/abs/2504.07640](https://arxiv.org/abs/2504.07640).
+
 ---
 
 ## Neuro-Symbolic Ontologic Transformer
