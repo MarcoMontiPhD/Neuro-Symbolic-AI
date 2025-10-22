@@ -17,7 +17,7 @@ A central hub for cutting-edge **Neuro-Symbolic AI** projects—integrating neur
 6. [Neuro-Symbolic Fine-Tuning with Ontology-Guided GRPO](#neuro-symbolic-fine-tuning-with-ontology-guided-grpo)
 7. [How to Validate NLP Answers Using Python and Ontologies](#how-to-validate-nlp-answers-using-python-and-ontologies)
 8. [Agent-driven Ontology Repair and Evolution (ADORE)](#agent-driven-ontology-repair-and-evolution)
-9. [MCP Graph-RAG — Multi-Agent MCP Stack for Regulatory & Contract Analysis](#multi-agent-mcp-stack-for-regulatory-&-contract-analysis)
+9. [Multi-Agent MCP Stack for Regulatory & Contract Analysis](#multi-agent-mcp-stack-for-regulatory-&-contract-analysis)
 ---
 
 ## Neuro-Symbolic Interaction
