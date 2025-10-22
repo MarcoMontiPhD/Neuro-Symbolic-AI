@@ -87,8 +87,9 @@ This repository demonstrates **ADORE (Agent-driven Ontology Repair and Evolution
 
 
 ### MCP Graph-RAG — Multi-Agent MCP Stack for Regulatory & Contract Analysis
-mcp Graph-RAG
+
 **Repository**[ruslanmv/mcp-graph-rag](https://github.com/ruslanmv/mcp-graph-rag)
+
 Goal A scalable, maintainable solution for hybrid GRAPH-RAG over regulatory corpora (DL/DM, decrees, laws) and contracts. It combines vector search and a knowledge graph, exposed through minimal MCP servers (Knowledge, Writer, Review) orchestrated by a thin Orchestrator and served by a Web BFF/UI. Designed for traceability (citations/“as-of” anchors), governance/HITL, and end-to-end audit. Reference storage: Neo4j (KG), Qdrant (embeddings/chunks), MinIO/S3 (artifacts/originals), SQL (audit).
 
 
