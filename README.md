@@ -16,7 +16,7 @@ A central hub for cutting-edge **Neuro-Symbolic AI** projects—integrating neur
 5. [watsonx-NeuroSymbolic-Decision](#watsonx-neurosymbolic-decision)
 6. [Neuro-Symbolic Fine-Tuning with Ontology-Guided GRPO](#neuro-symbolic-fine-tuning-with-ontology-guided-grpo)
 7. [How to Validate NLP Answers Using Python and Ontologies](#how-to-validate-nlp-answers-using-python-and-ontologies)
-8. [Agent-driven Ontology Repair and Evolution (ADORE)](#agent-driven-ontology-repair-and-evolution)
+8. [Agent-driven Ontology Repair and Evolution](#agent-driven-ontology-repair-and-evolution)
 ---
 
 ## Neuro-Symbolic Interaction
@@ -77,7 +77,7 @@ This repository provides a foundational, hands-on tutorial for validating answer
 
 
 
-### Agent-driven Ontology Repair and Evolution
+## Agent-driven Ontology Repair and Evolution
 
 **Repository** [ruslanmv/Agent-driven-Ontology-Repair-and-Evolution](https://github.com/ruslanmv/Agent-driven-Ontology-Repair-and-Evolution)
 
