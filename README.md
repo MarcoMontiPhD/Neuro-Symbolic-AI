@@ -16,7 +16,8 @@ A central hub for cutting-edge **Neuro-Symbolic AI** projects—integrating neur
 5. [watsonx-NeuroSymbolic-Decision](#watsonx-neurosymbolic-decision)
 6. [Neuro-Symbolic Fine-Tuning with Ontology-Guided GRPO](#neuro-symbolic-fine-tuning-with-ontology-guided-grpo)
 7. [How to Validate NLP Answers Using Python and Ontologies](#how-to-validate-nlp-answers-using-python-and-ontologies)
-8. [Agent-driven Ontology Repair and Evolution](#agent-driven-ontology-repair-and-evolution)
+8. [Agent-driven Ontology Repair and Evolution (ADORE)](#agent-driven-ontology-repair-and-evolution)
+9. [MCP Graph-RAG — Multi-Agent MCP Stack for Regulatory & Contract Analysis](#mcp-graph-rag-—-multi-mgent-mcp-stack-for-regulatory-&-contract-analysis)
 ---
 
 ## Neuro-Symbolic Interaction
@@ -83,11 +84,21 @@ This repository provides a foundational, hands-on tutorial for validating answer
 
 This repository demonstrates **ADORE (Agent-driven Ontology Repair and Evolution)**, a highly advanced conceptual framework for managing how ontologies evolve with input from LLMs. It proposes a multi-agent system where specialized AI agents collaborate to propose, validate, and repair knowledge. When an LLM suggests a new fact that causes a logical inconsistency, the framework treats it as a trigger for a repair cycle, using formal axiom weakening and human-in-the-loop oversight to resolve the conflict. This project represents the cutting edge of research into creating autonomous, reflective, and trustworthy knowledge systems.
 
+
+
+### MCP Graph-RAG — Multi-Agent MCP Stack for Regulatory & Contract Analysis
+mcp Graph-RAG
+**Repository**[ruslanmv/mcp-graph-rag](https://github.com/ruslanmv/mcp-graph-rag)
+Goal A scalable, maintainable solution for hybrid GRAPH-RAG over regulatory corpora (DL/DM, decrees, laws) and contracts. It combines vector search and a knowledge graph, exposed through minimal MCP servers (Knowledge, Writer, Review) orchestrated by a thin Orchestrator and served by a Web BFF/UI. Designed for traceability (citations/“as-of” anchors), governance/HITL, and end-to-end audit. Reference storage: Neo4j (KG), Qdrant (embeddings/chunks), MinIO/S3 (artifacts/originals), SQL (audit).
+
+
 ---
 
 ## Supporters
 
-* Ruslan Magana Vsevolodovna
-* Marco Monti
+
+* [Ruslan Magana Vsevolodovna](https://github.com/ruslanmv/)
+* [Marco Monti](https://github.com/MarcoMontiPhD/)
+
 
 
