@@ -86,7 +86,7 @@ This repository demonstrates **ADORE (Agent-driven Ontology Repair and Evolution
 
 
 
-## Multi-Agent MCP Stack for Regulatory & Contract Analysis
+## Multi Agent MCP Stack for Regulatory & Contract Analysis
 
 **Repository** [ruslanmv/mcp-graph-rag](https://github.com/ruslanmv/mcp-graph-rag)
 
